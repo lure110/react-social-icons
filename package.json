@@ -47,6 +47,7 @@
     "typescript": "^4.2.4"
   },
   "dependencies": {
+    "babel": "^6.23.0",
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
